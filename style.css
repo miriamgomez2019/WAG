@@ -1,0 +1,77 @@
+
+
+h1 {
+	color: black;
+	font-family: 'Staatliches', cursive;
+	padding: 80px;
+	margin: 0;
+	<!--border: 0px solid black;-->
+	border-radius: 25px;
+}
+
+p{
+	color: lightgrey;
+	font-family: 'Staatliches', cursive;
+	padding: 10px;
+	margin: 0;
+	
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	color:white;
+	font-weight: bold;
+	background-color: lightblue;
+
+}
+
+#banner {
+		text-align: center;
+		background-image: url("https://images.unsplash.com/photo-1438978280647-f359d95ebda4?ixlib=rb-1.2.1&auto=format&fit=crop&w=2550&q=80");
+		background-size: 100vh;
+		width: 100vw;
+		color: white;
+		text-shadow: 1px 1px 5pc black
+
+}
+#banner p {
+		color:white;
+		opacity: 0.8;
+		font-size: 30px;
+		font-weight: lighter;
+}
+#footer {
+	padding: 30px;
+	background-color: rgb(30, 30, 30);
+	color: white;
+}
+
+.section {
+		text-align: center;
+		background-size: 100vh;
+		width: 100vw;
+}
+
+#banner h1 {
+	color:#CF3030;
+
+}
+
+#banner a {
+	color:white;
+}
+.fab {
+	color: white;
+}
+
+.fab:hover{
+	color: white;
+	font-weight: bold;
+}
+
+#footer {
+		text-align: center;
+}
